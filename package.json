@@ -1,5 +1,5 @@
 {
-  "homepage": "http://BermetUson.github.io/HomeWork14",
+  "homepage": "http://BermetUson.github.io/HomeWork-14",
   "name": "mmm",
   "version": "0.1.0",
   "private": true,
@@ -37,5 +37,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "gh-pages": "^4.0.0"
   }
 }
